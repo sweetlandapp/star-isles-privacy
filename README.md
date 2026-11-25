@@ -1,7 +1,7 @@
 # Star Isles — Gizlilik Politikası
 
 [Star Isles](https://play.google.com/store/apps/details?id=com.sweetland.star_isles)
-oyununun gizlilik politikası. Yayınlanan hâli: **https://adaonder.github.io/star-isles-privacy/**
+oyununun gizlilik politikası. Yayınlanan hâli: **https://sweetlandapp.github.io/star-isles-privacy/**
 
 Bu depo yalnızca bu sayfayı barındırmak için var — oyunun kendi deposu private
 ve GitHub Pages private depoda ücretli.
